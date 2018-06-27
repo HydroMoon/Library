@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1081145255139",
+    "firebase_url": "https://library-c4bc3.firebaseio.com",
+    "project_id": "library-c4bc3",
+    "storage_bucket": "library-c4bc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081145255139:android:a16f256dba1e03fe",
+        "android_client_info": {
+          "package_name": "com.hydro.library"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081145255139-stfbfko2gnfgn6u094ff7u216vks9jnn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hydro.library",
+            "certificate_hash": "49a5ca6a649ef67ba31a35b3513b3840a5d74e3f"
+          }
+        },
+        {
+          "client_id": "1081145255139-ihpbabbv2us55i3q4am7q5i23vlfav1j.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1081145255139-ihpbabbv2us55i3q4am7q5i23vlfav1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDxApLJ087yDJQPrz3_KKbZAffF6Tu354"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081145255139-ihpbabbv2us55i3q4am7q5i23vlfav1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
